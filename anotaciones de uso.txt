@@ -1,0 +1,7 @@
+ 
+monitorear midi en linux:
+sudo apt-get install midisnoop
+eescribimos midisnoop en terminal
+y vemos que envia cada elemento del arduino
+
+
