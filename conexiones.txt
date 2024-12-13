@@ -1,0 +1,17 @@
+Pin 2   SDA I2C
+Pin 3   SCL I2C
+Pin 4   CapacitiveSensor  Envia
+Pin 5   in1
+Pin 6   in2
+Pin 7   Pin A del encoder
+Pin 8   Pin B del encoder
+Pin 9   Pulsador 3
+Pin 10  Pulsador 6
+Pin 14  CapacitiveSensor  Recibe
+Pin 15  enA
+Pin 16  Pulsador 5
+Pin A0  Potenciometro
+Pin A1  Pulsador 1
+Pin A2  Pulsador 2
+Pin A3  Pulsador 4
+
